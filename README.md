@@ -1,2 +1,4 @@
 Canaimero
 =========
+
+Autor: José Solorzano
